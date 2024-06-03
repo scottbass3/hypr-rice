@@ -1,0 +1,9 @@
+*
+!*/
+!/.gitignore
+!/alacritty/**
+!/hypr/**
+!/tmux/**
+!/waybar/**
+!/rofi/**
+!/tmux/**
