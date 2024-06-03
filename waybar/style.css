@@ -13,7 +13,7 @@
 @define-color cyan			rgba(53, 140, 169, 1);
 
 @define-color background-module     @transparent;
-@define-color border-color          @color12;
+@define-color border-color          #33ccff;
 @define-color button-color          @color11;
 @define-color button-hover          @color9;
 
