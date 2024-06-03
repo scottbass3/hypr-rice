@@ -1,6 +1,7 @@
 *
 !*/
 !/.gitignore
+!/.zshrc
 !/alacritty/**
 !/hypr/**
 !/tmux/**
