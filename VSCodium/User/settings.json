@@ -1,0 +1,100 @@
+{
+  "workbench.colorTheme": "Darcula",
+  "cSpell.enabled": false,
+  "php.debug.executablePath": "/usr/bin/php",
+  "php.validate.executablePath": "/usr/bin/php",
+  "php.executablePath": "/usr/bin/php7",
+  "redhat.telemetry.enabled": false,
+  "symfony-vscode.phpExecutablePath": "/usr/bin/php7",
+  "explorer.autoReveal": false,
+  "emmet.includeLanguages": {
+    "twig": "html"
+  },
+  "php-cs-fixer.executablePath": "${workspaceFolder}/tools/php-cs-fixer/vendor/bin/php-cs-fixer",
+  "gitlens.hovers.avatars": false,
+  "gitlens.views.commits.avatars": false,
+  "gitlens.views.commitDetails.avatars": false,
+  "gitlens.views.repositories.avatars": false,
+  "gitlens.views.fileHistory.avatars": false,
+  "gitlens.views.lineHistory.avatars": false,
+  "gitlens.views.branches.avatars": false,
+  "gitlens.views.remotes.avatars": false,
+  "gitlens.views.tags.avatars": false,
+  "gitlens.views.worktrees.avatars": false,
+  "gitlens.views.contributors.avatars": false,
+  "gitlens.views.searchAndCompare.avatars": false,
+  "gitlens.blame.avatars": false,
+  "gitlens.graph.avatars": false,
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "eslint.format.enable": true,
+  "[php]": {
+    "editor.defaultFormatter": "junstyle.php-cs-fixer"
+  },
+  "svelte.enable-ts-plugin": true,
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "browse-lite.chromeExecutable": "/usr/bin/chromium",
+  "gitlens.views.contributors.showStatistics": true,
+  "php.highlight-todo.style": {
+    "backgroundColor": "#eecc00"
+  },
+  "php.inlayHints.types.return": "named",
+  "gitlens.autolinks": [
+    {
+      "prefix": "issue-",
+      "url": "https://forge.cadoles.com/CNOUS/mse/issues/<num>"
+    },
+    {
+      "prefix": "retour-",
+      "url": "https://forge.cadoles.com/CNOUS/mse/issues/<num>"
+    },
+    {
+      "prefix": "#",
+      "url": "https://forge.cadoles.com/CNOUS/mse/issues/<num>"
+    }
+  ],
+  "explorer.confirmDragAndDrop": false,
+  "phpstan.suppressTimeoutMessage": true,
+  "markdown.preview.scrollPreviewWithEditor": false,
+  "files.exclude": {
+    "**/.git": false
+  },
+  "phpstan.binPath": "vendor/phpstan/phpstan/phpstan.phar",
+  "phpstan.options": ["--level=8"],
+  "phpstan.showProgress": true,
+  "php-cs-fixer.formatHtml": true,
+  "php-cs-fixer.onsave": true,
+  "php.docblock.classSnippet": {},
+  "php.docblock.functionSnippet": {},
+  "php-cs-fixer.lastDownload": 0,
+  "php-cs-fixer.allowRisky": true,
+  "cSpell.userWords": ["Cnous", "Crous", "Flysystem", "izly", "Izly", "minio"],
+  "cSpell.language": "en,fr,fr-FR",
+  "cSpell.languageSettings": [
+    {
+      "locale": "fr-FR",
+      "caseSensitive": false
+    }
+  ],
+  "workbench.editor.empty.hint": "hidden",
+  "editor.largeFileOptimizations": false,
+  "php-cs-fixer.ignorePHPVersion": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "junstyle.php-cs-fixer",
+  "editor.formatOnSave": true,
+  "go-template.languages": [
+    "html"
+  ],
+  "go-template.patterns": [
+    "**/*.gohtml"
+  ],
+  "[twig]": {
+    "editor.defaultFormatter": "monosans.djlint"
+  }
+}
