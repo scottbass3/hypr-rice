@@ -61,6 +61,7 @@
 	"custom/separator#dot-line",
 	"custom/keyboard",
 	"custom/separator#dot-line",
+	"battery",
 	"custom/power",
 	],
 }
